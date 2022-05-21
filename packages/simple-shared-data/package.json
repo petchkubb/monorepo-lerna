@@ -1,0 +1,22 @@
+{
+  "name": "@my-namespace/simple-shared-data",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "petchkubbb <petchkubb@live.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/simple-shared-data.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
